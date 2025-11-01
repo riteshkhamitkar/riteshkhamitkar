@@ -1,41 +1,19 @@
-<div align="center">
+## 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-```
-██████╗ ██╗████████╗███████╗███████╗██╗  ██╗    ██╗  ██╗██╗  ██╗ █████╗ ███╗   ███╗██╗████████╗██╗  ██╗ █████╗ ██████╗ 
-██╔══██╗██║╚══██╔══╝██╔════╝██╔════╝██║  ██║    ██║ ██╔╝██║  ██║██╔══██╗████╗ ████║██║╚══██╔══╝██║ ██╔╝██╔══██╗██╔══██╗
-██████╔╝██║   ██║   █████╗  ███████╗███████║    █████╔╝ ███████║███████║██╔████╔██║██║   ██║   █████╔╝ ███████║██████╔╝
-██╔══██╗██║   ██║   ██╔══╝  ╚════██║██╔══██║    ██╔═██╗ ██╔══██║██╔══██║██║╚██╔╝██║██║   ██║   ██╔═██╗ ██╔══██║██╔══██╗
-██║  ██║██║   ██║   ███████╗███████║██║  ██║    ██║  ██╗██║  ██║██║  ██║██║ ╚═╝ ██║██║   ██║   ██║  ██╗██║  ██║██║  ██║
-╚═╝  ╚═╝╚═╝   ╚═╝   ╚══════╝╚══════╝╚═╝  ╚═╝    ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
-```
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FF9FC6&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Senior+AI+%26+Web3+Engineer;Agentic+AI+Architect+%7C+Production+Systems+Builder;5%C3%97+Productivity+%7C+Zero+Learning+Curve" alt="Typing SVG" />
-</p>
+[![Email Badge](https://img.shields.io/badge/-ritesh.khamitkar@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ritesh.khamitkar@gmail.com)](mailto:ritesh.khamitkar@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-ritesh--khamitkar-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ritesh-khamitkar/)](https://www.linkedin.com/in/ritesh-khamitkar/)
+[![GitHub Badge](https://img.shields.io/badge/-riteshkhamitkar-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/riteshkhamitkar)](https://github.com/riteshkhamitkar)
+[![Calendly Badge](https://img.shields.io/badge/-Schedule_Meeting-00A2FF?style=flat-square&logo=calendly&logoColor=white&link=https://calendly.com/ritesh-khamitkar)](https://calendly.com/ritesh-khamitkar)
+
+I am **Ritesh Khamitkar** 🚀. A **Senior AI & Web3 Engineer** specializing in **Agentic AI Systems** and **Production-Grade Infrastructure**. I architect scalable multi-agent orchestration systems, Layer 2 DEX automation, and real-time blockchain data pipelines. Currently building the future of Web3 x AI 🌐.
+
+<br/>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=riteshkhamitkar&color=ff9fc6&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/riteshkhamitkar?style=for-the-badge&color=ff9fc6&labelColor=000000" alt="Followers"/>
-  <img src="https://img.shields.io/badge/FOCUS-Agentic_AI-ff9fc6?style=for-the-badge&labelColor=000000" alt="Focus"/>
-  <img src="https://img.shields.io/badge/AVAILABLE-2_Week_Free_Trial-ff9fc6?style=for-the-badge&labelColor=000000" alt="Available"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=FF9FC6&center=true&vCenter=true&width=600&lines=Senior+AI+%26+Web3+Engineer;Agentic+AI+Architect;Multi-Agent+Orchestration;Layer+2+DEX+Automation;5%C3%97+Productivity+Engineer" alt="Typing SVG" />
 </p>
-
-<p align="center">
-  <a href="mailto:ritesh.khamitkar@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ritesh.khamitkar%40gmail.com-ff9fc6?style=for-the-badge&logo=gmail&logoColor=ff9fc6&labelColor=000000" alt="Email"/>
-  </a>
-  <a href="https://linkedin.com/in/ritesh-khamitkar">
-    <img src="https://img.shields.io/badge/LinkedIn-ritesh--khamitkar-ff9fc6?style=for-the-badge&logo=linkedin&logoColor=ff9fc6&labelColor=000000" alt="LinkedIn"/>
-  </a>
-  <a href="https://calendly.com/ritesh-khamitkar">
-    <img src="https://img.shields.io/badge/Calendly-Schedule_Meeting-ff9fc6?style=for-the-badge&logo=calendly&logoColor=ff9fc6&labelColor=000000" alt="Calendly"/>
-  </a>
-  <a href="tel:+919021453333">
-    <img src="https://img.shields.io/badge/Phone-%2B91--9021453333-ff9fc6?style=for-the-badge&logo=whatsapp&logoColor=ff9fc6&labelColor=000000" alt="Phone"/>
-  </a>
-</p>
-
-</div>
 
 ---
 
@@ -215,22 +193,6 @@ Engineered production DEX automation bots for **Hyperliquid** and **Paradex** ex
 
 **Master's in Artificial Intelligence**  
 Birla Institute of Technology and Science, Pilani (BITS Pilani) | Pilani, India
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=riteshkhamitkar&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=ff9fc6&text_color=ffffff&icon_color=ff9fc6" alt="GitHub Stats" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=riteshkhamitkar&theme=radical&hide_border=true&background=0d1117&ring=ff9fc6&fire=ff9fc6&currStreakLabel=ff9fc6&sideNums=ffffff&currStreakNum=ff9fc6&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" width="49%"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riteshkhamitkar&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff9fc6&text_color=ffffff&langs_count=8" alt="Top Languages" width="49%"/>
-<img src="https://github-profile-trophy.vercel.app/?username=riteshkhamitkar&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=4" alt="GitHub Trophies" width="49%"/>
-
-</div>
 
 ---
 
